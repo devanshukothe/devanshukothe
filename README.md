@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devanshu Kothe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner from INDIA.</h3>
 
 - 🔭 I’m currently working on **COLLEGE CONTENT**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **devanshukothe123@gmail.com**
 
-- ⚡ Fun fact **EAT CODE SLEEP REPEAT**
+- ⚡ Fun fact **Each line of code, if it works, causes something to happen in the console.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
