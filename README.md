@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devanshu Kothe</h1>
 <h3 align="center">A passionate Learner from INDIA.</h3>
 
-- 🔭 I’m currently working on **COLLEGE CONTENT**
+- 🔭 I’m currently working on **COLLEGE PROJECTS**
 
-- 🌱 I’m currently learning **JAVASCRIPT , JAVA DSA**
+- 🌱 I’m currently learning **JAVASCRIPT, REACT JS, JAVA DSA**
 
 - 📫 How to reach me **devanshukothe123@gmail.com**
 
