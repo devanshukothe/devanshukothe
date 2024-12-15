@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **COLLEGE PROJECTS**
 
-- 🌱 I’m currently learning **JAVASCRIPT, REACT JS, JAVA DSA**
+- 🌱 I’m currently learning **JAVASCRIPT, MERN STACK, JAVA DSA**
 
 - 📫 How to reach me **devanshukothe123@gmail.com**
 
