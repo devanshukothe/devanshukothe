@@ -15,6 +15,7 @@
 <a href="https://twitter.com/devanshu kothe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshu kothe" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/devanshu-kothe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu kothe" height="30" width="40" /></a>
 <a href="https://instagram.com/devanshuk_othe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshuk_othe" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/devanshu_kothe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DevanshuKothe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
