@@ -79,7 +79,9 @@
 
 ### 📈 GitHub Stats
 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshukothe&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukothe&layout=compact&theme=react" alt="Top Languages"/>
+</p>
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshukothe&theme=radical&fire=FF7600&currStreakLabel=F7C40F" alt="GitHub Streak" />
