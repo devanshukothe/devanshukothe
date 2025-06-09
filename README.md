@@ -84,6 +84,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshukothe&theme=react" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukothe&layout=compact&theme=react" alt="Top Languages"/>
 </p>
+### 📊 More GitHub Stats
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshukothe&theme=radical&fire=FF7600&currStreakLabel=F7C40F" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshukothe&theme=tokyo-night&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=devanshukothe&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
