@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png" alt="MasterHead" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Devanshu+Kothe!;MERN+Stack+Developer+%7C+Java+DSA+Lover;Building+Projects+%F0%9F%9A%80;Learning+Every+Single+Day!" alt="Typing SVG" />
 </p>
 
