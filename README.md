@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on multiple **College Projects**
-- 🌱 I’m learning **JavaScript | MERN Stack | Java DSA**
+- 🌱 I’m learning **MERN Stack | Java DSA | DEVOPS**
 - ⚡ Fun Fact: *Each working line of code is a mini miracle 💡*
 - 📫 Reach me at: **devanshukothe123@gmail.com**
 
